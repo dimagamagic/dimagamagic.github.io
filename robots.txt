@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: http://runaswet.ru/sitemap.xml
+Host: runaswet.ru
